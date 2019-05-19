@@ -8,6 +8,6 @@ this project uses the Monte Carlo method to simulate the activity of neutrons in
 
 The transmission, reflection and absorption fractions of neutrons for each slab of material was determined. The largest transmission fraction
 was observed for  graphite at 30.74%. So neutrons penetrate through graphite best. Water had the smallest transmission and reflection fractions,
-at  0.35% and 19.84%. So water is the least penetrative material for graphite and is also the best material for absorbing neutrons. 
+at  0.35% and 19.84% respectively. So water is the least penetrative material for graphite and also the best material for absorbing neutrons. 
 
 All relevant graphs and results that were produced using the simulation code can be found in the pdf file. 
